@@ -1,8 +1,0 @@
-|id |lastname   |firstname|email                     |city      |age|
-|---|-----------|---------|--------------------------|----------|---|
-|1  |Rzewnicka  |Julia    |julia.rzewnicka@gmail.com |Katowice  |33 |
-|2  |Konopnicka |Maria    |maria.konopnicka@gmail.com|Suwałki   |22 |
-|3  |Mickiewicz |Adam     |adam.mickiewicz@gmail.com |Nowogródek|45 |
-|4  |Kochanowski|Jan      |jan.kochanowski@gmail.com |Lublin    |27 |
-|5  |Tuwim      |Julian   |julian.tuwim@gmail.com    |Zakopane  |55 |
-|6  |Słowacki   |Juliusz  |juliusz.slowacki@gmail.com|Paryż     |33 |
